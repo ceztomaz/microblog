@@ -42,3 +42,4 @@ microblog.log*
 # colocar depois no server com .flaskenv
 config.py
 microblog.py
+tests.py
